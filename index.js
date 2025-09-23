@@ -1,1 +1,1 @@
-console.log("hello world with brand devlopment")
+console.log("hello world javascript")
